@@ -1,0 +1,22 @@
+.footer{
+ display: flex;
+ flex-direction: column;
+ background-color: var(--black-arvin);
+padding: 1rem;
+color: var(--white);
+text-align: center;
+align-items: center;
+gap: 0.54rem;
+position: fixed;
+bottom: 0%;
+width: 97.9%;
+font-size: 0.8rem;
+}
+.footer img{
+ max-width: 2.5rem;
+}
+
+  @media print{
+ .footer {display: none;}
+
+ }
