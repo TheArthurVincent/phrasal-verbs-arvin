@@ -1,9 +1,9 @@
-import React from 'react';
-import styles from './Vocabulary.module.css';
+import React from "react";
+import styles from "./Vocabulary.module.css";
 
 const Vocabulary = ({ content, active }) => {
   return (
-    <article className={`${styles.vocabulary} ${active ? '' : styles.hidden}`}>
+    <article className={`${styles.vocabulary} ${active ? "" : styles.hidden}`}>
       {content.words.map((word) => (
         <div className={styles.theWord} key={word.wordTitle}>
           <h3>{word.wordTitle}</h3>
@@ -26,8 +26,6 @@ const Vocabulary = ({ content, active }) => {
               </div>
             ))}
           </div>
-          <h4>Curiosity</h4>
-          <p>{word.curiosity}</p>
           <div className={styles.questions}>
             <h4>Questions</h4>
             <ul>

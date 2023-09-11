@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Distinction",
+    "title": "Tell Apart / Tease Out / Draw Out",
     "content": {
       "words": [
         {
@@ -22,7 +22,6 @@
               "portuguese": "Ela tem um talento natural para distinguir diferentes espécies de pássaros."
             }
           ],
-          "curiosity": "Some animals, such as dogs, have a remarkable ability to tell apart scents, allowing them to track specific odors over long distances.",
           "questions": [
             "Have you ever had difficulty telling apart identical twins or look-alike siblings?",
             "Can you easily tell apart different varieties or brands of a product?"
@@ -46,7 +45,6 @@
               "portuguese": "Eles tiveram que extrair os detalhes-chave do conjunto de dados complexo para entender o padrão."
             }
           ],
-          "curiosity": "Journalists often use interviews as a way to tease out information and gain insights into a person's thoughts and experiences.",
           "questions": [
             "Have you ever had to tease out hidden information during a research project or investigation?",
             "Can you share an experience where you successfully teased out a difficult-to-express idea from someone else?"
@@ -70,7 +68,6 @@
               "portuguese": "A sessão de terapia proporcionou um espaço seguro para ele extrair suas emoções profundamente enraizadas."
             }
           ],
-          "curiosity": "Artists often use their work as a means to draw out emotions and provoke a response from the audience.",
           "questions": [
             "How do you typically draw out important information or feedback during a group discussion or meeting?",
             "Can you recall a time when you used storytelling or other techniques to draw out a shy or reserved individual in a social setting?"
@@ -121,7 +118,7 @@
   },
   {
     "id": 2,
-    "title": "Elysian Enterprises",
+    "title": "Abide by / Account for / Act On / Act on / Act out",
     "content": {
       "words": [
         {
@@ -145,7 +142,6 @@
               "portuguese": "Nós obedeceremos às novas regulamentações estabelecidas pelo governo."
             }
           ],
-          "curiosity": "In the game of cricket, the players are expected to abide by a code of conduct known as the Spirit of Cricket, which promotes fair play and respect for opponents.",
           "questions": [
             "Have you ever received instructions or guidance that you disagreed with but had to abide by? How did you handle it?",
             "How do you ensure you abide by traffic laws and regulations while driving?",
@@ -178,7 +174,6 @@
               "portuguese": "Mulheres representam 55% da população."
             }
           ],
-          "curiosity": "In China, the population accounts for approximately 18% of the world's total population, making it the most populous country on Earth.",
           "questions": [
             "What activities do you have to account for throughout the day?",
             "Have you ever had to account for your whereabouts during a particular event or situation?",
@@ -206,7 +201,6 @@
               "portuguese": "Nós agiremos de acordo com os resultados da pesquisa de mercado para desenvolver nossa estratégia."
             }
           ],
-          "curiosity": "A pragmatic person is someone who acts on the current situation. It is someone who tends to focus on practicality and taking action based on the current circumstances or the reality of a situation. They prioritize what works in practice rather than sticking to theories or ideologies. Pragmatic individuals often value efficiency and effectiveness. They are inclined to make decisions based on the immediate context and what will yield the most practical outcome.",
           "questions": [
             "Have you ever had to act on urgent information or recommendations?",
             "Have you ever acted on other people`s opinions?",
@@ -234,7 +228,6 @@
               "portuguese": "Nós agiremos de acordo com os resultados da pesquisa de mercado para desenvolver nossa estratégia."
             }
           ],
-          "curiosity": "Psychologists use role-playing exercises to help patients act out their emotions or past experiences in a safe and controlled environment.",
           "questions": [
             "Have you ever witnessed someone acting out their emotions in a negative way?",
             "Can you think of a time when you acted out your frustration or anger?",
@@ -274,7 +267,7 @@
   },
   {
     "id": 3,
-    "title": "Ways to 'Look'",
+    "title": "Look (...)",
     "content": {
       "words": [
         {
@@ -295,7 +288,6 @@
               "portuguese": "Ele conta com seu treinador para orientação e mentoria."
             }
           ],
-          "curiosity": "Many people look to self-help books for inspiration and motivation in their personal development journeys.",
           "questions": [
             "Who do you usually look to for advice or support?",
             "Have you ever looked to a mentor for guidance in your career?"
@@ -319,7 +311,6 @@
               "portuguese": "Todos estavam olhando para a professora, esperando que ela falasse."
             }
           ],
-          "curiosity": "Body language plays an important role in communication. When someone looks at you with direct eye contact, it often signals interest or attention.",
           "questions": [
             "What is the most interesting thing you've ever looked at?",
             "Have you ever caught someone looking at you when you weren't expecting it?"
@@ -347,7 +338,6 @@
               "portuguese": "Ela observou com orgulho enquanto sua filha recebia o prêmio."
             }
           ],
-          "curiosity": "In many sports, spectators look on from the stands, cheering on their favorite teams or athletes.",
           "questions": [
             "Have you ever witnessed a memorable event by simply looking on?",
             "Is there a situation in which you would feel uncomfortable just looking on without taking action?"
@@ -371,7 +361,6 @@
               "portuguese": "(Examining the painting with attention)"
             }
           ],
-          "curiosity": "In summary, `look on` emphasizes observation from a distance or in a passive manner, while `look at` emphasizes directing attention towards a specific object or subject for closer examination.",
           "questions": [
             "Can you give examples of each phrasal verbs used in a real situation?"
           ]
@@ -394,7 +383,6 @@
               "portuguese": "É importante zelar pela sua saúde, alimentando-se bem e praticando exercícios regularmente."
             }
           ],
-          "curiosity": "In some cultures, it is common for adult children to look after their aging parents, providing them with care and support as they grow older.",
           "questions": [
             "Who usually looks after your pet when you're away?",
             "What are some ways you can look after the environment in your daily life?"
@@ -418,7 +406,6 @@
               "portuguese": "Não devemos desprezar os outros com base em sua aparência ou status social."
             }
           ],
-          "curiosity": "Looking down on others can hinder empathy and understanding, preventing meaningful connections and collaboration.",
           "questions": [
             "Have you ever felt looked down on by someone? How did it make you feel?",
             "In what situations do you think it's important not to look down on others?"
@@ -442,7 +429,6 @@
               "portuguese": "Eles têm seu treinador como exemplo e se esforçam para emular seu sucesso."
             }
           ],
-          "curiosity": "Having positive role models can inspire and motivate individuals to strive for personal growth and achievement.",
           "questions": [
             "Who is someone you look up to and why?",
             "Have you ever had someone look up to you as a role model?"
@@ -466,7 +452,6 @@
               "portuguese": "Eles procuraram respostas para suas perguntas em livros e recursos online."
             }
           ],
-          "curiosity": "When looking for information online, it's important to evaluate the credibility and reliability of the sources.",
           "questions": [
             "What is something you've recently looked for but couldn't find?",
             "Have you ever looked for a lost item and eventually found it in an unexpected place?"
@@ -493,7 +478,6 @@
               "portuguese": "Eles aguardam com expectativa passar tempo com a família durante as festas."
             }
           ],
-          "curiosity": "Looking forward to positive experiences can enhance our overall sense of well-being and anticipation.",
           "questions": [
             "What is something you are currently looking forward to?",
             "Have you ever looked forward to an event or occasion and then felt disappointed?"
@@ -542,6 +526,107 @@
           "srcAudio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1555795951&color=%23f7f8f6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
         }
       ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "Break up/Back up/Call off",
+    "content": {
+      "words": [
+        {
+          "wordTitle": "Back up",
+          "definition": "To support or assist someone, or to provide evidence or information that supports a claim.",
+          "possibleTranslations": [
+            "Dar apoio a",
+            "Apoiar",
+            "Fornecer evidências para"
+          ],
+          "examples": [
+            {
+              "english": "She always backs up her colleagues in times of need.",
+              "portuguese": "Ela sempre apoia seus colegas em momentos de necessidade."
+            },
+            {
+              "english": "Can you back up your argument with some facts and figures?",
+              "portuguese": "Você consegue fornecer evidências para o seu argumento com alguns fatos e números?"
+            },
+            {
+              "english": "I'll back you up if you decide to confront the issue.",
+              "portuguese": "Eu vou te apoiar se você decidir enfrentar o problema."
+            }
+          ],
+          "questions": [
+            "Have you ever had someone back you up in a difficult situation?",
+            "How important is it to back up your statements with evidence in professional settings?",
+            "What can you do to back up a friend or colleague when they need support?"
+          ]
+        },
+        {
+          "wordTitle": "Break up",
+          "definition": "To end a romantic relationship or a group or organization, or to separate into smaller parts.",
+          "possibleTranslations": [
+            "Terminar um relacionamento",
+            "Desfazer uma organização",
+            "Dividir em partes menores"
+          ],
+          "examples": [
+            {
+              "english": "They decided to break up after five years of dating.",
+              "portuguese": "Eles decidiram terminar o relacionamento após cinco anos de namoro."
+            },
+            {
+              "english": "The company had to break up due to financial difficulties.",
+              "portuguese": "A empresa teve que se desfazer devido a dificuldades financeiras."
+            },
+            {
+              "english": "Let's break up the project into smaller tasks for better management.",
+              "portuguese": "Vamos dividir o projeto em tarefas menores para uma melhor gestão."
+            }
+          ],
+          "questions": [
+            "Have you ever had to break up with someone, or have you been on the receiving end of a breakup?",
+            "In what situations do you think it's necessary to break up a team or organization?",
+            "How do you usually handle the process of breaking up a complex task or project?"
+          ]
+        },
+        {
+          "wordTitle": "Call off",
+          "definition": "To cancel an event or activity, or to decide that it will not happen.",
+          "possibleTranslations": ["Cancelar"],
+          "examples": [
+            {
+              "english": "Due to bad weather, they had to call off the outdoor picnic.",
+              "portuguese": "Devido ao mau tempo, eles tiveram que cancelar o piquenique ao ar livre."
+            },
+            {
+              "english": "The manager decided to call off the meeting because of the urgent issue.",
+              "portuguese": "O gerente decidiu cancelar a reunião devido ao problema urgente."
+            },
+            {
+              "english": "The school had to call off the field trip due to unforeseen circumstances.",
+              "portuguese": "A escola teve que cancelar a excursão devido a circunstâncias imprevistas."
+            }
+          ],
+          "questions": [
+            "Can you recall a time when you had to call off an event or plan due to unexpected circumstances?",
+            "What factors should be considered before deciding to call off a scheduled activity or event?",
+            "How do you communicate the decision to call off an event effectively to the participants?"
+          ]
+        }
+      ],
+      "texts": [
+        {
+          "textTitle": "Crossroads of Love: The Bittersweet Journey of Sarah and Mark",
+          "textContent": "High school sweethearts, Sarah and Mark, always had each other's backs. They supported each other through thick and thin, acting on their feelings with unwavering dedication. However, as time passed, the pressure of impending college decisions started to break them up. Sarah had dreams of studying on the West Coast, while Mark was committed to an East Coast university. Torn between their futures and the love they shared, they faced a tough decision. After countless discussions and sleepless nights, they realized that their dreams were taking them in different directions. With heavy hearts, they made the painful choice to call off their relationship, agreeing that it was the best way to pursue their individual paths. In this story, the phrasal verbs are used to describe how the young couple supported each other (back up), how their relationship faced challenges and ultimately ended (break up), and how they decided to cancel their romantic relationship (call off).",
+          "img": "https://ik.imagekit.io/vjz75qw96/assets/assets_for_classes/newstudent.jpg?updatedAt=1688471773669"
+        },
+        {
+          "textTitle": "Love Lost, Business Broken",
+          "textContent": "In a small town, Emily and John embarked on an entrepreneurial journey, creating a quaint bookstore and cafe together. Their shared dreams and hard work initially backed up their business, attracting loyal customers. However, as their personal relationship began to deteriorate, it had a ripple effect on their business. The constant disagreements and emotional strain eventually led to their breakup, forcing them to make the heart-wrenching decision to break up their business as well. Unable to sustain it alone, they sadly called off their beloved bookstore and cafe, a casualty of both love and commerce.",
+          "img": "https://ik.imagekit.io/vjz75qw96/assets/assets_for_classes/newstudent.jpg?updatedAt=1688471773669"
+        }
+      ],
+      "exercises": []
     }
   }
 ]

@@ -2,15 +2,15 @@ import React, { useState } from 'react';
 import styles from './StudentInfo.module.css';
 const StudentInfo = ({ onNameChange, onDateChange }) => {
   const [showOrNot, setShowOrNot] = React.useState(styles.flex);
-  const [arrow, setArrow] = React.useState('🡺');
+  const [arrow, setArrow] = React.useState('>');
 
   const handleClick = () => {
     if (showOrNot === styles.flex) {
       setShowOrNot(`${styles.flex} ${styles.showtab}`);
-      setArrow('🡸');
+      setArrow('<');
     } else {
       setShowOrNot(styles.flex);
-      setArrow('🡺');
+      setArrow('>');
     }
   };
   return (

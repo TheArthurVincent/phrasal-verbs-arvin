@@ -79,7 +79,6 @@ function App() {
       ) : (
         <Initial />
       )}
-      <Footer />
     </div>
   );
 }
